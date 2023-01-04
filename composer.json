@@ -1,0 +1,20 @@
+{
+	"name": "MrKanhan/phpeditor",
+	"type": "project",
+	"description": "php file editor",
+	"keywords": ["pheditor", "php", "file editor", "file manager"],
+	"homepage": "https://www.youtube.com/channel/UCCfF_1hGbmMxYUNVxI7IDAA",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Muhammad Kanhan",
+			"email": "mr.kanhan@gmail.com",
+			"homepage": "https://www.youtube.com/channel/UCCfF_1hGbmMxYUNVxI7IDAA",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"minimum-stability": "stable"
+}
